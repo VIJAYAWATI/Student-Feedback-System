@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "StudentFeedbackSystem", "G:\StudentFeedbackSystem\", "{FD650FF2-B8A2-4AEF-94E2-201943C01397}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/StudentFeedbackSystem"
+		Debug.AspNetCompiler.PhysicalPath = "G:\StudentFeedbackSystem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\StudentFeedbackSystem\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/StudentFeedbackSystem"
+		Release.AspNetCompiler.PhysicalPath = "G:\StudentFeedbackSystem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\StudentFeedbackSystem\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50482"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD650FF2-B8A2-4AEF-94E2-201943C01397}.Debug|.NET.ActiveCfg = Debug|.NET
+		{FD650FF2-B8A2-4AEF-94E2-201943C01397}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
